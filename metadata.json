@@ -1,0 +1,6 @@
+{
+  "name": "Niñeras Moncada - Cuidado Infantil y Nanas Profesionales",
+  "description": "Agencia especializada en selección rigurosa de niñeras, nanas cama adentro y afuera, y enfermeras neonatales con verificación integral de antecedentes y garantía.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
